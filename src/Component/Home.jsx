@@ -55,7 +55,7 @@ function HomePage() {
       <div className='dropdown' style={{ position: 'absolute', top: '100px', right: '200px' }}>
       <button className='dropbtn'>HELLO IAN KYLLE ▼</button>
         <div className='dropdown-content'>
-          <Link to="/tictactoe">TicTacToe</Link>
+          <Link to="/tictactoe">TIKTAKTOW</Link>
           <Link to="/stacks">Stacks</Link>
           <Link to="/queue">Queue</Link>
           <Link to="/BSearchT">Binary Search Tree</Link>
