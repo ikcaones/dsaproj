@@ -53,7 +53,7 @@ function HomePage() {
   return (
     <div className="home-container">
       <div className='dropdown' style={{ position: 'absolute', top: '100px', right: '200px' }}>
-      <button className='dropbtn'>CASE STUDIES ▼</button>
+      <button className='dropbtn'>HELLO IAN KYLLE ▼</button>
         <div className='dropdown-content'>
           <Link to="/tictactoe">TicTacToe</Link>
           <Link to="/stacks">Stacks</Link>
