@@ -86,7 +86,7 @@ function HomePage() {
         </button>
       </div>
 
-      <h3 className="bottom-subtitle">Click the dropdown menu to start browsing case studies</h3>
+      <h3 className="bottom-subtitle">HELLO JUSLO HUHUHUH</h3>
     </div>
   );
 }
