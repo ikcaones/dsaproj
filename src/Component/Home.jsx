@@ -86,7 +86,7 @@ function HomePage() {
         </button>
       </div>
 
-      <h3 className="bottom-subtitle">HELLO JUSLO HUHUAAAAAHUAAAAAAH</h3>
+      <h3 className="bottom-subtitle">HELLWAAAAO JUSLO HUHUAAAAAHUAAAAAAH</h3>
     </div>
   );
 }
